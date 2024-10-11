@@ -69,7 +69,7 @@ These were the key findings from my analysis:
 
 **Share** 
 
-<a href="https://public.tableau.com/app/profile/hui.liang/viz/CyclisticDashboard_17286675905190/CyclisticDashboardk">Cyclistic Dashboard</a>
+<a href="https://public.tableau.com/app/profile/hui.liang/viz/CyclisticDashboard_17286675905190/CyclisticDashboard">Cyclistic Dashboard</a>
 
 <a href="https://public.tableau.com/app/profile/hui.liang/viz/CyclisticCaseStudyPresentation_17285842100070/CyclisticPresentation">Cyclistic Presentation</a>
 
